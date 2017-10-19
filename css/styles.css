@@ -1,0 +1,34 @@
+
+h1, h3 {
+  text-align: center;
+}
+   #vid {
+    position: fixed; no-repeat;
+    left: 50%;
+    z-index:-1000;
+    min-width:100%;
+    min-height: 100%;
+  /*width: auto;*/
+  /*height: 50%;*/
+    transform: translate(-50%, 0%);
+     overflow:hidden;
+  }
+}
+
+#zen {
+  float: right;
+  padding-right: 5vw;
+}
+
+.callout {
+  opacity: .75;
+  border-radius: 10px;
+}
+
+p {
+  text: bold;
+}
+
+#pokemonRed, #pokemonBlue {
+  text-align: center;
+}
